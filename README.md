@@ -2,12 +2,14 @@
 #### Design & Develovment !
 I'm currently pursuing my B.Tech in Electronics & Telecommunications Engineering from GEC Jagdalpur (2021-2025)
 
-Skills: JAVA / PYTHON / REACT / VUE / HTML / CSS
+##Skills: 
+JAVA / PYTHON / REACT / VUE / HTML / CSS
 
 - 🔭 I’m currently working on my own projects 
 - 📫 How to reach me: maharshisinha01@gmail.com 
 - 😄 Pronouns: He/Him 
 
+##Connect with me :
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/maharshi-sinha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maharshi-sinha-78b1001b7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/maharshi.sinha/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sinha_maharshi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCp30pU1u9od-MGgw0Q829yg)  
 
