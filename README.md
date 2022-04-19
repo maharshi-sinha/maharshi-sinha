@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Maharshi Sinha
-#### Design & Develovment !
+## Hi there 👋, my name is Maharshi Sinha
+## Design & Develovment !
 I'm currently pursuing my B.Tech in Electronics & Telecommunications Engineering from GEC Jagdalpur (2021-2025)
 
 ## Skills: 
