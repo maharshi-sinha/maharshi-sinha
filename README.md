@@ -11,7 +11,7 @@ JAVA / PYTHON / REACT / VUE / HTML / CSS
 
 ## Connect with me :
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/maharshi-sinha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maharshi-sinha-78b1001b7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/maharshi.sinha/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sinha_maharshi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCp30pU1u9od-MGgw0Q829yg)  
+[<img src="https://img.shields.io/badge/Github-2962FF?style=for-the-badge&logo=github&logoColor=Black">](https://github.com/maharshi-sinha)  [<img src="https://img.shields.io/badge/Linkdin-2962FF?style=for-the-badge&logo=Linkdin&logoColor=Black">](https://www.linkedin.com/in/maharshi-sinha-78b1001b7/)  [<img src="https://img.shields.io/badge/Instagram-2962FF?style=for-the-badge&logo=instagram&logoColor=">](https://www.instagram.com/maharshi.sinha/)  [<img src="https://img.shields.io/badge/Twitter-2962FF?style=for-the-badge&logo=twitter&logoColor=Black">](https://twitter.com/sinha_maharshi)  [<img src="https://img.shields.io/badge/Youtube-2962FF?style=for-the-badge&logo=youtube&logoColor=Black">](https://www.youtube.com/channel/https://www.youtube.com/channel/UCp30pU1u9od-MGgw0Q829yg)  
 
 ## ✍🏼 Blog :
 
