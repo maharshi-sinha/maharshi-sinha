@@ -5,8 +5,8 @@ I'm currently pursuing my B.Tech in Electronics & Telecommunications Engineering
 ## Skills: 
 JAVA / PYTHON / REACT / VUE / HTML / CSS
 
-- 🔭 I’m currently working on my own projects 
-- 📫 How to reach me: maharshisinha01@gmail.com 
+- 🔭 I’m currently focusing on "Learning" 
+- 📫 How to reach me: maharshisinha01@gmail.com
 - 😄 Pronouns: He/Him 
 
 ## Connect with me :
