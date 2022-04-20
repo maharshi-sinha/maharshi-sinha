@@ -15,7 +15,7 @@ JAVA / PYTHON / REACT / VUE / HTML / CSS
 
 ## ✍🏼 Blog :
 
-error 404 ! description under processing, so why are you waiting here...? go and check that blog untill we are maintaining this !!! <br>
+**error 404 ! description under processing, so why are you waiting here...? go and check that blog untill we are maintaining this !!!** <br>
 <br>
 [<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">](https://maharshisinha.hashnode.dev/)
 
