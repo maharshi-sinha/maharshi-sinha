@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Maharshi Sinha
+## Hi there 👋, this is Maharshi
 - 🔭 I’m currently focusing on "Learning" 
 - 📫 How to reach me: maharshisinha01@gmail.com
 - 😄 Pronouns: He/Him 
