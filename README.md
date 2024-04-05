@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, Dart, Firebase & GCP**
 
-- 👨‍💻 All of my projects are available at [Portfolio Site](https://maharshi-sinha.github.io/portfolio-site/)
+- 👨‍💻 All of my projects are available at [Portfolio Site](https://)
 
 - 📝 I regularly write articles on [Hashnode](https://maharshisinha.hashnode.dev/)
   
