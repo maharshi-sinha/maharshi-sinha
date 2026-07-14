@@ -12,7 +12,7 @@
 
 <div align="center">
 
-**Flutter** is home base. Expert-level — production apps across healthcare, fintech, and consumer. Pixel-perfect UIs, smooth animations, clean architecture. When a project needs React Native or goes fully native on iOS with Swift, equally comfortable. Cloud and DevOps aren't a separate concern; they're part of how I ship.
+**Flutter** is home base. Expert-level - production apps across healthcare, fintech, and consumer. Pixel-perfect UIs, smooth animations, clean architecture. When a project needs React Native or goes fully native on iOS with Swift, equally comfortable. Cloud and DevOps aren't a separate concern; they're part of how I ship.
 
 </div>
 
